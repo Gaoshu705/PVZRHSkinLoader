@@ -1,6 +1,6 @@
 # SKinLoader - 植物皮肤加载系统
 **Languages:**
-[English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md)
+[English](docs/en/README.md) | [简体中文](docs/zh-CN/README.md) 
 植物皮肤加载器允许玩家通过简单的文件操作为游戏中的植物添加自定义皮肤。只需在指定目录创建文件夹并放入资源包文件，即可在图鉴中为对应植物添加可切换的皮肤。
 
 ## 目录结构规范

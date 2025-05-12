@@ -1,6 +1,6 @@
 # SKinLoader - Plant Skin Loading System
 **Languages:**
-[English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md)
+[English](docs/en/README.md) | [简体中文](docs/zh-CN/README.md) 
 The Plant Skin Loader allows players to add custom skins to in-game plants through simple file operations. By creating folders in a specified directory and placing asset bundles, players can add switchable skins to corresponding plants in the almanac.
 
 ## Directory Structure Specification
